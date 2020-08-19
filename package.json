@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-tailwind",
-  "description": "Gatsby starter styled with Tailwind",
-  "version": "4.0.0",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "name": "employee-directory",
+  "description": "Employee Directory build with Gatsby and Tailwind",
+  "version": "0.0.1",
+  "author": "Jack Middlebrook <jack.middlebrook@gmail.com>",
+  "private": true,
   "dependencies": {
     "gatsby": "2.24.47",
     "gatsby-plugin-manifest": "2.4.22",
@@ -49,12 +50,5 @@
     "gatsby-plugin-eslint": "2.0.8",
     "prettier": "2.0.5",
     "tailwindcss": "1.6.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/taylorbryant/gatsby-starter-tailwind"
-  },
-  "bugs": {
-    "url": "https://github.com/taylorbryant/gatsby-starter-tailwind/issues"
   }
 }
