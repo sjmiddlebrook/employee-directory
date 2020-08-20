@@ -5,16 +5,20 @@
   "author": "Jack Middlebrook <jack.middlebrook@gmail.com>",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.2",
     "gatsby": "2.24.47",
     "gatsby-plugin-manifest": "2.4.22",
     "gatsby-plugin-offline": "3.2.23",
     "gatsby-plugin-postcss": "2.3.11",
     "gatsby-plugin-react-helmet": "3.3.10",
     "gatsby-plugin-sharp": "2.6.27",
+    "gatsby-plugin-use-query-params": "^1.0.1",
     "prop-types": "15.7.2",
+    "query-string": "^6.13.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-helmet": "6.1.0"
+    "react-helmet": "6.1.0",
+    "use-query-params": "^1.1.6"
   },
   "keywords": [
     "gatsby",
