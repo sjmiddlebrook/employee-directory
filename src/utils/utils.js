@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 function getEmployeeData(employeeName) {
-  const url = `http://api.additivasia.io/api/v1/assignment/employees/${employeeName}`;
+  const url = `https://api.additivasia.io/api/v1/assignment/employees/${employeeName}`;
   return axios.get(url)
     .then(res => {
       const employeeData = res.data;
